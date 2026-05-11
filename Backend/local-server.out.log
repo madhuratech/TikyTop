@@ -1,0 +1,18 @@
+MongoDB connected: ac-mtntobu-shard-00-01.evy7fly.mongodb.net/instagramdata
+Server running on port 5000
+Incoming order: {
+  "amount": 2.43,
+  "platform": "instagram",
+  "username": "wwe",
+  "orders": [
+    {
+      "platform": "instagram",
+      "order": {
+        "followers": 100
+      },
+      "link": "https://www.instagram.com/wwe/",
+      "serviceId": 2361
+    }
+  ]
+}
+💱 Rate: 94.57
